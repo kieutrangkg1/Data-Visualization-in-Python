@@ -9,3 +9,8 @@ Datasets: This directory contains sample datasets used in the code examples for 
 ## Requirements
 * Matplotlib
 * Seaborn
+
+## Results: 
+![image](https://github.com/kieutrangkg1/Data-Visualization-in-Python/assets/168499660/02459b35-c091-47c3-bf1f-b8f75a453ca4)
+![image](https://github.com/kieutrangkg1/Data-Visualization-in-Python/assets/168499660/b5d17feb-4739-41c1-9068-3149a4ba9b26)
+
